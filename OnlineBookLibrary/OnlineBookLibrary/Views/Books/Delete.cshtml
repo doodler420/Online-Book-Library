@@ -4,48 +4,58 @@
     ViewData["Title"] = "Delete";
 }
 
-<h1>Delete</h1>
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm border-0 rounded-4">
+                <div class="card-header bg-danger text-white rounded-top-4">
+                    <h3 class="mb-0">
+                        <i class="bi bi-exclamation-triangle-fill"></i> Confirm Delete
+                    </h3>
+                </div>
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Book</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Author)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Author)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Genre)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Genre)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.PublishedYear)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.PublishedYear)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IsAvailable)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IsAvailable)
-        </dd>
-    </dl>
-    
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
+                <div class="card-body">
+                    <p class="fs-5 fw-semibold text-danger mb-4">Are you sure you want to delete this book?</p>
+
+                    <dl class="row">
+                        <dt class="col-sm-4 text-muted">Title</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Title)</dd>
+
+                        <dt class="col-sm-4 text-muted">Author</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Author)</dd>
+
+                        <dt class="col-sm-4 text-muted">Genre</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Genre)</dd>
+
+                        <dt class="col-sm-4 text-muted">Published Year</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.PublishedYear)</dd>
+
+                        <dt class="col-sm-4 text-muted">Is Available</dt>
+                        <dd class="col-sm-8">
+                            @if (Model.IsAvailable)
+                            {
+                                <span class="text-success fs-4 fw-bold">&#10003;</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger fs-4 fw-bold">&#10007;</span>
+                            }
+                        </dd>
+                    </dl>
+                </div>
+
+                <div class="card-footer bg-white d-flex justify-content-between rounded-bottom-4 flex-wrap gap-2">
+                    <form asp-action="Delete" class="d-inline">
+                        <input type="hidden" asp-for="Id" />
+                        <button type="submit" class="btn btn-danger px-4">
+                            <i class="bi bi-trash"></i> Delete
+                        </button>
+                    </form>
+                    <a asp-action="Index" class="btn btn-secondary px-4">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
