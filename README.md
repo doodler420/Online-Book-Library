@@ -54,7 +54,7 @@ This project is a web-based library management system that allows users to manag
 - Write the C# code for the schema logic here
 - Now add a Controller with Razor views , refer to the base class Book.cs and name it BooksController.cs
 - Now go to the views added in Views/Books after scaffolding is done
-- Edit all views for the BOoksController with bootstrap CSS tags , for example changing the color and layout of buttons and the page with accent colors
+- Edit all views for the BooksController with bootstrap CSS tags , for example changing the color and layout of buttons and the page with accent colors
 - Save the files
 - Now add a Data folder and add ApplicationDbContext.cs file to the app
 - Open NuGet Package Manager -> Package Manager Console
@@ -80,6 +80,12 @@ This project is a web-based library management system that allows users to manag
 # Delete
 ![image](https://github.com/user-attachments/assets/4df8719d-295d-456d-a744-b641b1f3faa6)
 
+
+
+---
+
+
+## Azure Deployment
 
 
 
