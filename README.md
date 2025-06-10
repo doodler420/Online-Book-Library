@@ -30,23 +30,9 @@ This project is a web-based library management system that allows users to manag
 
 ## Folder Structure
 
-OnlineBookLibrary/
-├── Controllers/
-│ └── BooksController.cs
-├── Models/
-│ └── Book.cs
-├── Views/
-│ └── Books/
-│ ├── Index.cshtml
-│ ├── Create.cshtml
-│ ├── Edit.cshtml
-│ ├── Details.cshtml
-│ └── Delete.cshtml
-├── Data/
-│ └── ApplicationDbContext.cs
-├── Migrations/
-├── appsettings.json
-├── Program.cs / Startup.cs (depending on ASP.NET version)
-└── README.md
+![image](https://github.com/user-attachments/assets/8eaa61f9-a34d-4586-a5d8-0fb40dabebc1)
+![image](https://github.com/user-attachments/assets/59789e34-b9d5-4b09-b768-98d2e9769fad)
+
+
 
 
