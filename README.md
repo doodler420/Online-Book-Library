@@ -1,4 +1,3 @@
-# Online Book Library
 # Online Book Library System (ASP.NET Core MVC)
 
 ## Project Overview
