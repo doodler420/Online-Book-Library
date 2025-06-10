@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\admin\\desktop\\new folder\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\new folder\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|solutionrelative:onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
