@@ -65,4 +65,24 @@ This project is a web-based library management system that allows users to manag
   Update-Database -Migration BookMigration -Context ApplicationDbContext
 - Local DB is created , launch the app and test it.
 
-Here are the screenshots for the application:
+
+# Here are the screenshots for the application:
+
+![image](https://github.com/user-attachments/assets/3c82c0f2-ff58-4341-a5d9-99839e293d01)
+# Books
+![image](https://github.com/user-attachments/assets/edcf2edc-a7fe-4c31-a467-5a89ea52de26)
+# Create
+![image](https://github.com/user-attachments/assets/e9efa529-8378-48a3-8862-c48543cdcd83)
+# Edit
+![image](https://github.com/user-attachments/assets/9d407bfd-9502-4bd1-8a08-8318213f6300)
+# Details
+![image](https://github.com/user-attachments/assets/324ba59e-0272-4e16-abf5-6070f1945f61)
+# Delete
+![image](https://github.com/user-attachments/assets/4df8719d-295d-456d-a744-b641b1f3faa6)
+
+
+
+
+
+
+
