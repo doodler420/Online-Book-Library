@@ -85,9 +85,93 @@ This project is a web-based library management system that allows users to manag
 ---
 
 
+## Github Repository
+
+- Add a repository on github with the name Online-Book-Library
+- Clone it on your local machine
+- Add the asp.net app folder into the cloned repository
+- Run the following commands to push it to the github repository:
+
+-git add .
+
+-git commit -m "message"
+
+-git push origin main
+
+- Open github to erify commited files
+
+---
+
 ## Azure Deployment
 
+### Step 1 : Create App Service
 
+- Go to Azure Portal
+  
+- Search for App Services → Click Create
+
+- Fill in the following:
+
+-Name: online-book-library-app
+
+-Publish: Code
+
+-Runtime stack: .NET 8 
+
+Region: Choose nearest region
+
+- Under Deployment, select:
+
+-GitHub as source
+
+-Choose your repository and branch (main)
+
+-Review and Create
+
+---
+
+### Step 2 : Create Azure SQL Database
+
+- Go to Azure Portal → Search SQL databases → Click Create
+
+- Fill in:
+
+-Database name: OnlineBookLibraryDb
+
+-Server: Create new (note the admin username and password)
+
+-Select Basic pricing tier (for free tier)
+
+- After deployment, go to the new database → Click Set Server Firewall → Allow Azure Services and your IP.|
+
+- In the Azure SQL database resource, click Connection strings
+
+- Copy the ADO.NET connection string.
+
+- Replace the placeholder in your appsettings.json file under "DefaultConnection"
+
+---
+
+###  Step 3 : Update Azure App Settings
+
+- Go to Azure App Service → Configuration
+
+- Under Application Settings, click + New application setting:
+
+-Name: ConnectionStrings:DefaultConnection
+
+-Value: Paste your full connection string 
+
+- Save and restart the App Service
+
+- Run Migrations on azure and update the database
+
+---
+
+### Step 4 : Test the deployed site
+
+- Open your deployed site
+- Check if everything works properly
 
 
 
