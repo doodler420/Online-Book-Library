@@ -4,12 +4,22 @@
     ViewData["Title"] = "Details";
 
 }
-<div class="container py-5">
+<style>
+    .create-page-container {
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #f0f4f8, #d9e2ec); 
+        padding: 20px;
+    }
+    </style>
+<div class="create-page-container">
     <div class="row justify-content-center">
         <div class="col-md-8 col-lg-6">
             <div class="card shadow-sm border-0 rounded-4">
-                <div class="card-header bg-gradient-primary text-white rounded-top-4">
-                    <h3 class="mb-0">
+               <div class="card-header text-white rounded-top-4" style="background-color: black;">
+                    <h3 class="mb-0" style:background-color:black>
                         <i class="bi bi-book"></i> Book Details
                     </h3>
                 </div>

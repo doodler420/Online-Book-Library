@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\new folder\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\project\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|solutionrelative:onlinebooklibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\project\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|solutionrelative:onlinebooklibrary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\project\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|solutionrelative:onlinebooklibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|c:\\users\\plman\\onedrive\\desktop\\project\\online-book-library\\onlinebooklibrary\\onlinebooklibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611F0D3C-1A6E-49DB-8235-C2EF0C9F989A}|OnlineBookLibrary\\OnlineBookLibrary.csproj|solutionrelative:onlinebooklibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:14:28.663Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\New folder\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T06:38:20.441Z",
+              "WhenOpened": "2025-06-12T10:14:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:14:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:14:04.638Z",
               "EditorCaption": ""
             }
           ]
