@@ -38,8 +38,7 @@
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Details.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T10:14:28.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:14:28.663Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "ToolTip": "C:\\Users\\plman\\OneDrive\\Desktop\\Project\\Online-Book-Library\\OnlineBookLibrary\\OnlineBookLibrary\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwGwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-12T10:14:29.927Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T10:14:13.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:14:13.775Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "OnlineBookLibrary\\Views\\Books\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T10:14:04.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:14:04.638Z"
             }
           ]
         }
