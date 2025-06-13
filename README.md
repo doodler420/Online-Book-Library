@@ -68,17 +68,18 @@ This project is a web-based library management system that allows users to manag
 
 # Here are the screenshots for the application:
 
-![image](https://github.com/user-attachments/assets/3c82c0f2-ff58-4341-a5d9-99839e293d01)
+![image](https://github.com/user-attachments/assets/67a239c6-e5db-4389-95ff-b81859256724)
 # Books
-![image](https://github.com/user-attachments/assets/edcf2edc-a7fe-4c31-a467-5a89ea52de26)
+![image](https://github.com/user-attachments/assets/5caf0b51-b34b-4898-8543-1954ea7aeeed)
 # Create
-![image](https://github.com/user-attachments/assets/e9efa529-8378-48a3-8862-c48543cdcd83)
+![image](https://github.com/user-attachments/assets/77e4290b-7e8d-4a2c-a043-eb2279506417)
 # Edit
-![image](https://github.com/user-attachments/assets/9d407bfd-9502-4bd1-8a08-8318213f6300)
+![image](https://github.com/user-attachments/assets/14ee4b52-d253-4a6b-b18b-63671c932012)
 # Details
-![image](https://github.com/user-attachments/assets/324ba59e-0272-4e16-abf5-6070f1945f61)
+![image](https://github.com/user-attachments/assets/53620180-7278-4223-aef5-7aeb64cc2a74)
 # Delete
-![image](https://github.com/user-attachments/assets/4df8719d-295d-456d-a744-b641b1f3faa6)
+![image](https://github.com/user-attachments/assets/c3d6490d-8798-47e0-9b24-b8c51af1f96e)
+
 
 
 
