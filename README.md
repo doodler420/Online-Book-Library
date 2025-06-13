@@ -99,7 +99,7 @@ This project is a web-based library management system that allows users to manag
 
 -git push origin main
 
-- Open github to erify commited files
+- Open github to verify commited files
 
 ---
 
