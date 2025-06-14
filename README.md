@@ -68,7 +68,7 @@ This project is a web-based library management system that allows users to manag
 
 # Here are the screenshots for the application:
 
-![image](https://github.com/user-attachments/assets/67a239c6-e5db-4389-95ff-b81859256724)
+![image](https://github.com/user-attachments/assets/2a3c1f88-faaa-4eb7-b2f2-178406dc8197)
 # Books
 ![image](https://github.com/user-attachments/assets/5caf0b51-b34b-4898-8543-1954ea7aeeed)
 # Create
