@@ -17,6 +17,10 @@ namespace OnlineBookLibrary.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            return View("~/Views/About.cshtml");
+        }
 
         public IActionResult Privacy()
         {

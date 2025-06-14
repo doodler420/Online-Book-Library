@@ -1,6 +1,31 @@
 ﻿@{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "About Us";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>here lies the library Privacy policy</p>
+<div class="container mt-5">
+    <div class="card shadow-sm border-0 rounded-4 p-4">
+        <div class="card-body">
+
+            <h1 class="display-5 text-center mb-4">@ViewData["Title"]</h1>
+
+            <p class="lead text-dark text-center mb-5">
+                Welcome to the Online Book Library System. This page outlines our purpose and privacy commitments.
+            </p>
+
+            <h4 class="text-primary mt-4">Privacy Policy</h4>
+            <p class="text-dark">
+                We value your privacy. This application does not collect or store any personal information beyond the book data entered by users.
+                All operations are performed locally or within your organization's secure environment.
+            </p>
+            <ul class="text-dark">
+                <li>No user login information is stored or shared.</li>
+                <li>All data is stored securely in the application's configured database.</li>
+                <li>No third-party analytics or trackers are used.</li>
+            </ul>
+
+            <p class="text-muted mt-4">
+                For any questions or concerns, please contact the application administrator.
+            </p>
+        </div>
+    </div>
+</div>

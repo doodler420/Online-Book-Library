@@ -1,32 +1,38 @@
 ﻿@{
-
     ViewData["Title"] = "Home Page";
-
 }
 
-<div class="text-center mt-5">
-
-    <h1 class="display-4">Welcome To Online Book Library System</h1>
+<div class="position-relative">
     <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80"
-         class="img-fluid w-100 rounded shadow-lg mt-4"
+         class="img-fluid w-100 rounded shadow-lg"
+         style="max-height: 500px; object-fit: cover;"
          alt="Library with ladder and shelves" />
 
-
-    <p class="lead mt-4">
-
-        Discover a wide collection of books across various genres and authors.
-
-        Our platform allows you to browse, borrow, and manage books with ease.
-
-    </p>
-
-    <p class="text-muted">
-
-        Use the navigation menu to view available books, add new entries, or update existing records.
-
-        Whether you're a reader or an admin, this system is designed to simplify your library experience.
-
-    </p>
-
+    <div class="position-absolute top-50 start-50 translate-middle text-center px-3">
+        <div class="bg-light bg-opacity-75 p-4 rounded shadow">
+            <h1 class="display-5 fw-bold text-dark mb-2">Welcome to Online Book Library</h1>
+            <p class="lead text-dark mb-0">Explore. Borrow. Manage.</p>
+        </div>
+    </div>
 </div>
 
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4 p-4">
+        <div class="card-body text-center text-dark">
+            <h2 class="mb-4">Discover a Wide Collection of Books</h2>
+            <p class="lead">
+                Browse books across genres and authors. Whether you're a casual reader or a library admin,
+                our system simplifies book management and discovery.
+            </p>
+            <hr class="my-4" />
+            <p>
+                Use the navigation menu to:
+                <ul class="list-unstyled mt-3">
+                    <li>➤ View all available books</li>
+                    <li>➤ Add new book entries</li>
+                    <li>➤ Edit or delete existing records</li>
+                </ul>
+            </p>
+        </div>
+    </div>
+</div>
